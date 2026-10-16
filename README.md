@@ -23,6 +23,8 @@ BAID's website. Built with Next.js.
 </div>
 
 
+**注意：本仓库为 Helium 的分叉，原始仓库详见[此处](https://github.com/WebArtistryBAID/helium)。**
+
 
 Helium is the new content management system for the website of Beijing Academy International Division (BAID) and the
 International School of Beijing Academy (ISBA).
